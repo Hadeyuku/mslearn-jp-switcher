@@ -26,7 +26,7 @@
 
 ### 開発者モードで使う（おすすめ）
 
-1. このリポジトリをクローンまたは ZIP ダウンロード  
+1. このリポジトリをクローン 
    ```bash
    git clone https://github.com/hadeyuku/mslearn-jp-switcher.git
 
