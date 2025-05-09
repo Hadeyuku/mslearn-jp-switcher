@@ -1,0 +1,12 @@
+{
+    "name": "MS Learn JP Switcher",
+    "description": "英語版 MS Learn をワンクリックで日本語版に切り替えます。",
+    "version": "1.0.0",
+    "manifest_version": 3,
+  
+    "action": { "default_title": "Switch to Japanese" },
+    "permissions": ["tabs", "scripting"],
+    "host_permissions": ["https://learn.microsoft.com/*"],
+    "background": { "service_worker": "background.js" }
+  }
+  
