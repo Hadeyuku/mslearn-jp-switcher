@@ -8,7 +8,7 @@
 | **動作環境** | Microsoft Edge または Google Chrome (Manifest V3 対応版) |
 | **バージョン** | v1.0.0 |
 | **ライセンス** | MIT |
-| **作者** | Hideyuki (@nakagawa) |
+| **作者** | Hideyuki Nakagawa|
 
 ---
 
@@ -28,7 +28,7 @@
 
 1. このリポジトリをクローンまたは ZIP ダウンロード  
    ```bash
-   git clone https://github.com/<your-account>/mslearn-jp-switcher.git
+   git clone https://github.com/hadeyuku/mslearn-jp-switcher.git
 
 2. ブラウザで edge://extensions もしくは chrome://extensions を開く
 
