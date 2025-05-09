@@ -1,0 +1,14 @@
+# Node / VS Code
+node_modules/
+.vscode/
+
+# build output
+dist/
+
+# packaged zip
+MsLearnJpSwitcher.zip
+*.zip
+
+# OS
+.DS_Store
+Thumbs.db
